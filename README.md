@@ -25,3 +25,5 @@ Decoding the Output: The raw model outputs (logits or predicted token IDs) must 
 Displaying or Using the Transcription: Once converted, the text can be displayed in the user interface, stored in a file, or further processed (e.g., for command recognition or translation).
 
 output:
+
+![Image](https://github.com/user-attachments/assets/80be2f27-d3da-4d85-95a7-b53e0f04b1db)
