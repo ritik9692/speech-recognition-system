@@ -27,3 +27,5 @@ Displaying or Using the Transcription: Once converted, the text can be displayed
 output:
 
 ![Image](https://github.com/user-attachments/assets/80be2f27-d3da-4d85-95a7-b53e0f04b1db)
+
+![Image](https://github.com/user-attachments/assets/7ebab325-6a8d-4e0a-9d72-fe6bf4212433)
